@@ -1,9 +1,14 @@
 {
-    "notes": [
-        {
-            "title": "title",
-            "message": "text entry",
-            "id": "0"
-        }
-    ]
+  "notes": [
+    {
+      "title": "title",
+      "message": "text entry",
+      "id": "0"
+    },
+    {
+      "title": "new",
+      "message": "text",
+      "id": "1"
+    }
+  ]
 }

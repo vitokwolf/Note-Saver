@@ -13,8 +13,10 @@ ___
 * [Questions?](#questions)
 ___
 ## Demo
-![demo video](./assets/Team-Profile.gif)
-![screenshot](./assets/team-profile.png)
+![screenshot](./assets/demo.gif)
+
+Or check the [YouTube](https://youtu.be/T_1iR2g9y-4)
+
 
 ___
 ## Installation
